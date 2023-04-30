@@ -1,4 +1,4 @@
-import 'package:flutter_google_places_sdk_windows/types/autocomplete/places_autocomplete_status.dart';
+import 'package:flutter_google_places_sdk_http/types/autocomplete/places_autocomplete_status.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
 import 'place_autocomplete_prediction.dart';
